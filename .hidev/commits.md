@@ -3,6 +3,8 @@ advancedhosters/hidev-config commits history
 
 ## Under development
 
+- Changed to No license
+    - 89b58ab 2015-08-17 changed to No license (sol@hiqdev.com)
 - Fixed code styling
     - 1d0c5e5 2015-08-17 php-cs-fixed (sol@hiqdev.com)
 - Inited

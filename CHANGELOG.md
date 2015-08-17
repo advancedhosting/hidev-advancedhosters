@@ -3,6 +3,7 @@ advancedhosters/hidev-config changelog
 
 ## Under development
 
+- Changed to No license
 - Fixed code styling
 - Inited
 
