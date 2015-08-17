@@ -1,0 +1,30 @@
+{
+    "name": "advancedhosters/hidev-config",
+    "type": "yii2-extension",
+    "description": "AdvancedHosters general hidev config",
+    "keywords": [
+        "advanced hosters",
+        "hidev",
+        "config"
+    ],
+    "homepage": "https://github.com/advancedhosters/hidev-config",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "support@advancedhosters.com",
+        "source": "https://github.com/advancedhosters/hidev-config",
+        "issues": "https://github.com/advancedhosters/hidev-config/issues",
+        "wiki": "https://github.com/advancedhosters/hidev-config/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "advancedhosters\\hidev\\config\\": "src"
+        }
+    }
+}

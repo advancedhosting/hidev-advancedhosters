@@ -1,0 +1,14 @@
+package:
+    name:           hidev-config
+    namespace:      advancedhosters\hidev\config
+    label:          AdvancedHostersHiDevConfig
+    title:          AdvancedHosters general hidev config
+    type:           yii2-extension
+    keywords:       advanced hosters, hidev, config
+    year:           2015
+
+require:
+    hiqdev/hidev-config-php:        "*@dev"
+
+include:
+    - src/config.yml
