@@ -1,5 +1,14 @@
 <?php
 
+/*
+ * AdvancedHosters general hidev config
+ *
+ * @link      https://github.com/advancedhosters/hidev-config
+ * @package   hidev-config
+ * @license   BSD-3-Clause
+ * @copyright Copyright (c) 2015, AdvancedHosters (https://advancedhosters.com/)
+ */
+
 namespace advancedhosters\hidev\config;
 
 class Plugin extends \hiqdev\pluginmanager\Plugin
