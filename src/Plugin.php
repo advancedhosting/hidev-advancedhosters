@@ -5,7 +5,7 @@
  *
  * @link      https://github.com/advancedhosters/hidev-config
  * @package   hidev-config
- * @license   BSD-3-Clause
+ * @license   No license
  * @copyright Copyright (c) 2015, AdvancedHosters (https://advancedhosters.com/)
  */
 

@@ -3,7 +3,6 @@ vendor:
     title:      AdvancedHosters
     homepage:   https://advancedhosters.com/
     email:      support@advancedhosters.com
-    license:    BSD-3-Clause
     authors:
         'Andrii Vasyliev':
             email:      sol@hiqdev.com
