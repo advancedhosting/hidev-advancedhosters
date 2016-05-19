@@ -3,6 +3,7 @@ advancedhosters/hidev-config changelog
 
 ## Under development
 
+- Changed: redone to new style
 
 ## 0.0.2 2015-08-17
 

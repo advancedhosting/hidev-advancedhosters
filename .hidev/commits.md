@@ -3,6 +3,9 @@ advancedhosters/hidev-config commits history
 
 ## Under development
 
+- Changed: redone to new style
+    - 02407f1 2016-05-19 csfixed (sol@hiqdev.com)
+    - dad076f 2016-05-19 rehideved (sol@hiqdev.com)
     - 96eb353 2016-05-19 redoing to new style (sol@hiqdev.com)
 
 ## 0.0.2 2015-08-17
