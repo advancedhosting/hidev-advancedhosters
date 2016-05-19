@@ -1,19 +1,19 @@
 {
     "name": "advancedhosters/hidev-config",
     "type": "yii2-extension",
-    "description": "AdvancedHosters general hidev config",
+    "description": "AdvancedHosters vendor configuration for HiDev",
     "keywords": [
         "advanced hosters",
         "hidev",
-        "config"
+        "vendor config"
     ],
     "homepage": "https://github.com/advancedhosters/hidev-config",
     "license": "No license",
     "support": {
         "email": "support@advancedhosters.com",
-        "source": "https://github.com/advancedhosters/hidev-config",
-        "issues": "https://github.com/advancedhosters/hidev-config/issues",
-        "wiki": "https://github.com/advancedhosters/hidev-config/wiki"
+        "source": "https://github.com/advancedhosters/hidev-vendor",
+        "issues": "https://github.com/advancedhosters/hidev-vendor/issues",
+        "wiki": "https://github.com/advancedhosters/hidev-vendor/wiki"
     },
     "authors": [
         {
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "advancedhosters\\hidev\\config\\": "src"
+            "advancedhosters\\hidev\\vendor\\": "src"
         }
     },
     "extra": {

@@ -3,8 +3,8 @@ package:
     name:           hidev-config
     title:          AdvancedHosters vendor configuration for HiDev
     headline:       AdvancedHosters HiDev config
-    keywords:       advanced hosters, hidev, config
-    namespace:      advancedhosters\hidev\config
+    keywords:       advanced hosters, hidev, vendor config
+    namespace:      advancedhosters\hidev\vendor
     description:    |
         [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 

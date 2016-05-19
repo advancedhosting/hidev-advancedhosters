@@ -4,8 +4,10 @@ vendor:
     homepage:   https://advancedhosters.com/
     email:      support@advancedhosters.com
     authors:
-        'Andrii Vasyliev':
+        hiqsol:
+            name:       Andrii Vasyliev
             email:      sol@hiqdev.com
+            github:     https://github.com/hiqsol
             homepage:   https://hipanel.com/
 
 php-cs-fixer:
