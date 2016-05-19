@@ -22,9 +22,24 @@
             "homepage": "https://hipanel.com/"
         }
     ],
+    "require-dev": {
+        "hiqdev/hidev-php": "<2.0",
+        "hiqdev/hidev": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "advancedhosters\\hidev\\config\\": "src"
         }
-    }
+    },
+    "extra": {
+        "extension-plugin": {
+            "hidev-config": "src/config/hidev.php"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
