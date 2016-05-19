@@ -1,4 +1,4 @@
-advancedhosters/hidev-config changelog
+advancedhosters/hidev-vendor changelog
 --------------------------------------
 
 ## Under development

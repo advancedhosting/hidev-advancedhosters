@@ -1,6 +1,6 @@
 package:
     type:           yii2-extension
-    name:           hidev-config
+    name:           hidev-vendor
     title:          AdvancedHosters vendor configuration for HiDev
     headline:       AdvancedHosters HiDev config
     keywords:       advanced hosters, hidev, vendor config

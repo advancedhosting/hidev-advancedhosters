@@ -3,11 +3,11 @@ AdvancedHosters HiDev config
 
 **AdvancedHosters vendor configuration for HiDev**
 
-[![Latest Stable Version](https://poser.pugx.org/advancedhosters/hidev-config/v/stable)](https://packagist.org/packages/advancedhosters/hidev-config)
-[![Total Downloads](https://poser.pugx.org/advancedhosters/hidev-config/downloads)](https://packagist.org/packages/advancedhosters/hidev-config)
-[![Build Status](https://img.shields.io/travis/advancedhosters/hidev-config.svg)](https://travis-ci.org/advancedhosters/hidev-config)
-[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/advancedhosters/hidev-config.svg)](https://scrutinizer-ci.com/g/advancedhosters/hidev-config/)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/advancedhosters/hidev-config.svg)](https://scrutinizer-ci.com/g/advancedhosters/hidev-config/)
+[![Latest Stable Version](https://poser.pugx.org/advancedhosters/hidev-vendor/v/stable)](https://packagist.org/packages/advancedhosters/hidev-vendor)
+[![Total Downloads](https://poser.pugx.org/advancedhosters/hidev-vendor/downloads)](https://packagist.org/packages/advancedhosters/hidev-vendor)
+[![Build Status](https://img.shields.io/travis/advancedhosters/hidev-vendor.svg)](https://travis-ci.org/advancedhosters/hidev-vendor)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/advancedhosters/hidev-vendor.svg)](https://scrutinizer-ci.com/g/advancedhosters/hidev-vendor/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/advancedhosters/hidev-vendor.svg)](https://scrutinizer-ci.com/g/advancedhosters/hidev-vendor/)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
@@ -29,13 +29,13 @@ The preferred way to install this yii2-extension is through [composer](http://ge
 Either run
 
 ```sh
-php composer.phar require "advancedhosters/hidev-config"
+php composer.phar require "advancedhosters/hidev-vendor"
 ```
 
 or add
 
 ```json
-"advancedhosters/hidev-config": "*"
+"advancedhosters/hidev-vendor": "*"
 ```
 
 to the require section of your composer.json.

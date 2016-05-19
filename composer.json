@@ -1,5 +1,5 @@
 {
-    "name": "advancedhosters/hidev-config",
+    "name": "advancedhosters/hidev-vendor",
     "type": "yii2-extension",
     "description": "AdvancedHosters vendor configuration for HiDev",
     "keywords": [
@@ -7,7 +7,7 @@
         "hidev",
         "vendor config"
     ],
-    "homepage": "https://github.com/advancedhosters/hidev-config",
+    "homepage": "https://github.com/advancedhosters/hidev-vendor",
     "license": "No license",
     "support": {
         "email": "support@advancedhosters.com",

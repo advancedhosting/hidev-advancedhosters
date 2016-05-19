@@ -1,4 +1,4 @@
-advancedhosters/hidev-config commits history
+advancedhosters/hidev-vendor commits history
 --------------------------------------------
 
 ## Under development
