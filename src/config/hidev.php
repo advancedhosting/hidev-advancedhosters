@@ -1,12 +1,12 @@
 <?php
 
 /*
- * AdvancedHosters general hidev config
+ * AdvancedHosters vendor configuration for HiDev
  *
  * @link      https://github.com/advancedhosters/hidev-config
  * @package   hidev-config
  * @license   No license
- * @copyright Copyright (c) 2015, AdvancedHosters (https://advancedhosters.com/)
+ * @copyright Copyright (c) 2015-2016, AdvancedHosters (https://advancedhosters.com/)
  */
 
 return [
