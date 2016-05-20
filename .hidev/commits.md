@@ -1,7 +1,7 @@
 advancedhosters/hidev-vendor commits history
 --------------------------------------------
 
-## Under development
+## 0.0.3 2016-05-20
 
 - Changed: redone to new style
     - afc351d 2016-05-19 fixed name to `hidev-vendor` (sol@hiqdev.com)

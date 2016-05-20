@@ -1,7 +1,7 @@
 advancedhosters/hidev-vendor changelog
 --------------------------------------
 
-## Under development
+## 0.0.3 2016-05-20
 
 - Changed: redone to new style
 
