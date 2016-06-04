@@ -1,6 +1,10 @@
 advancedhosters/hidev-advancedhosters changelog
 -----------------------------------------------
 
+## 0.4.1 2016-06-04
+
+- Changed default license to proprietary
+
 ## 0.4.0 2016-06-04
 
 - Changed: renamed to `hidev-advancedhosters`

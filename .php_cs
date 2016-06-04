@@ -5,7 +5,7 @@ AdvancedHosters vendor configuration for HiDev
 
 @link      https://github.com/advancedhosters/hidev-advancedhosters
 @package   hidev-advancedhosters
-@license   No license
+@license   proprietary
 @copyright Copyright (c) 2015-2016, AdvancedHosters (https://advancedhosters.com/)
 EOF;
 
@@ -15,7 +15,7 @@ return Symfony\CS\Config\Config::create()
     ->setUsingCache(true)
     ->level(Symfony\CS\FixerInterface::PSR2_LEVEL)
     ->fixers([
-        'header_comment',                        /// Add, replace or remove header comment.
+        'header_comment',                        /// Add, replace or remove header comment
     ])
     ->finder(
         Symfony\CS\Finder\DefaultFinder::create()

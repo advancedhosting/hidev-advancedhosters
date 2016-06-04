@@ -1,6 +1,14 @@
 advancedhosters/hidev-advancedhosters commits history
 -----------------------------------------------------
 
+## 0.4.1 2016-06-04
+
+- Changed default license to proprietary
+    - 41e13f8 2016-06-04 fixing composer-config-plugin version reuirement (sol@hiqdev.com)
+    - da0dfca 2016-06-04 + require composer-config-plugin (sol@hiqdev.com)
+    - 613c28c 2016-06-04 changed default license to proprietary (sol@hiqdev.com)
+    - 435d3df 2016-06-04 inited empty tests (sol@hiqdev.com)
+
 ## 0.4.0 2016-06-04
 
 - Changed: renamed to `hidev-advancedhosters`
