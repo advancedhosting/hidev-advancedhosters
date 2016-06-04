@@ -3,8 +3,8 @@
 $header = <<<EOF
 AdvancedHosters vendor configuration for HiDev
 
-@link      https://github.com/advancedhosters/hidev-config
-@package   hidev-config
+@link      https://github.com/advancedhosters/hidev-vendor
+@package   hidev-vendor
 @license   No license
 @copyright Copyright (c) 2015-2016, AdvancedHosters (https://advancedhosters.com/)
 EOF;

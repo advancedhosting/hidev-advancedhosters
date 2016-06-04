@@ -1,5 +1,5 @@
 {
-    "name": "advancedhosters/hidev-vendor",
+    "name": "advancedhosters/hidev-advancedhosters",
     "type": "yii2-extension",
     "description": "AdvancedHosters vendor configuration for HiDev",
     "keywords": [
@@ -7,13 +7,13 @@
         "hidev",
         "vendor config"
     ],
-    "homepage": "https://github.com/advancedhosters/hidev-vendor",
+    "homepage": "https://github.com/advancedhosters/hidev-advancedhosters",
     "license": "No license",
     "support": {
         "email": "support@advancedhosters.com",
-        "source": "https://github.com/advancedhosters/hidev-vendor",
-        "issues": "https://github.com/advancedhosters/hidev-vendor/issues",
-        "wiki": "https://github.com/advancedhosters/hidev-vendor/wiki"
+        "source": "https://github.com/advancedhosters/hidev-advancedhosters",
+        "issues": "https://github.com/advancedhosters/hidev-advancedhosters/issues",
+        "wiki": "https://github.com/advancedhosters/hidev-advancedhosters/wiki"
     },
     "authors": [
         {
@@ -32,8 +32,8 @@
         }
     },
     "extra": {
-        "extension-plugin": {
-            "hidev-config": "src/config/hidev.php"
+        "config-plugin": {
+            "hidev": "src/config/hidev.php"
         }
     },
     "repositories": [
