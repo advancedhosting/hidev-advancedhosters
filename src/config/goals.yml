@@ -1,8 +1,10 @@
 vendor:
     name:       advancedhosters
     title:      AdvancedHosters
+    github:     https://github.com/advancedhosters
     homepage:   https://advancedhosters.com/
     email:      support@advancedhosters.com
+    license:    proprietary
     authors:
         hiqsol:
             name:       Andrii Vasyliev
@@ -19,7 +21,7 @@ php-cs-fixer:
         @license   {{ config.package.license }}
         @copyright Copyright (c) {{ config.package.years }}, {{ config.vendor.titleAndHomepage }}
     fixers:
-        'header_comment':   'Add, replace or remove header comment.'
+        'header_comment':   'Add, replace or remove header comment'
     finder:
         notPath:
             - vendor
