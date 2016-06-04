@@ -1,5 +1,9 @@
-advancedhosters/hidev-vendor changelog
---------------------------------------
+advancedhosters/hidev-advancedhosters changelog
+-----------------------------------------------
+
+## 0.4.0 2016-06-04
+
+- Changed: renamed to `hidev-advancedhosters`
 
 ## 0.0.3 2016-05-20
 

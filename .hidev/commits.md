@@ -1,5 +1,11 @@
-advancedhosters/hidev-vendor commits history
---------------------------------------------
+advancedhosters/hidev-advancedhosters commits history
+-----------------------------------------------------
+
+## 0.4.0 2016-06-04
+
+- Changed: renamed to `hidev-advancedhosters`
+    - e61171b 2016-06-04 csfixed (sol@hiqdev.com)
+    - cbefeaf 2016-06-04 redone to `hidev-advancedhosters` (sol@hiqdev.com)
 
 ## 0.0.3 2016-05-20
 
