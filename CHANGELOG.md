@@ -30,7 +30,7 @@ advancedhosters/hidev-advancedhosters
 
 [@hiqsol]: https://github.com/hiqsol
 [sol@hiqdev.com]: https://github.com/hiqsol
-[Under development]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.1...HEAD
+[Under development]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.2...HEAD
 [0.4.1]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.0...0.4.1
 [0.4.0]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.0.3...0.4.0
 [0.0.3]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.0.2...0.0.3

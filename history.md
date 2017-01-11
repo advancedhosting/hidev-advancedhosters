@@ -4,6 +4,7 @@ advancedhosters/hidev-advancedhosters
 ## [0.4.2] - 2017-01-11
 
 - Fixed php-cs-fixer config for version 2
+    - [d0ac0a6] 2017-01-11 redone bumping with chkipper [@hiqsol]
     - [7163886] 2017-01-11 csfixed [@hiqsol]
     - [608b639] 2017-01-11 fixed php-cs-fixer config for version 2 [@hiqsol]
 
@@ -60,10 +61,11 @@ advancedhosters/hidev-advancedhosters
 [3306d98]: https://github.com/advancedhosters/hidev-advancedhosters/commit/3306d98
 [7163886]: https://github.com/advancedhosters/hidev-advancedhosters/commit/7163886
 [608b639]: https://github.com/advancedhosters/hidev-advancedhosters/commit/608b639
-[Under development]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.1...HEAD
+[Under development]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.2...HEAD
 [0.4.1]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.0...0.4.1
 [0.4.0]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.0.3...0.4.0
 [0.0.3]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.0.2...0.0.3
 [0.0.2]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/advancedhosters/hidev-advancedhosters/releases/tag/0.0.1
 [0.4.2]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.1...0.4.2
+[d0ac0a6]: https://github.com/advancedhosters/hidev-advancedhosters/commit/d0ac0a6
