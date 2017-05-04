@@ -17,7 +17,7 @@ vendor:
             github:     https://github.com/SilverFire
             homepage:   http://silverfire.me/
 
-php-cs-fixer:
+.php_cs:
     header: |
         {{ config.package.title }}
 
