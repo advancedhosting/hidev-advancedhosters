@@ -1,5 +1,8 @@
-advancedhosters/hidev-advancedhosters
--------------------------------------
+# advancedhosters/hidev-advancedhosters
+
+## [0.6.0] - 2017-05-04
+
+- Redone to new hidev ([@hiqsol])
 
 ## [0.4.2] - 2017-01-11
 
@@ -28,6 +31,8 @@ advancedhosters/hidev-advancedhosters
 
 ## [Development started] - 2015-08-17
 
+[@SilverFire]: https://github.com/SilverFire
+[d.naumenko.a@gmail.com]: https://github.com/SilverFire
 [@hiqsol]: https://github.com/hiqsol
 [sol@hiqdev.com]: https://github.com/hiqsol
 [Under development]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.2...HEAD
@@ -37,3 +42,4 @@ advancedhosters/hidev-advancedhosters
 [0.0.2]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.0.1...0.0.2
 [0.0.1]: https://github.com/advancedhosters/hidev-advancedhosters/releases/tag/0.0.1
 [0.4.2]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.1...0.4.2
+[0.6.0]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.2...0.6.0

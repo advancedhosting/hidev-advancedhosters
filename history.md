@@ -1,5 +1,11 @@
-advancedhosters/hidev-advancedhosters
--------------------------------------
+# advancedhosters/hidev-advancedhosters
+
+## [0.6.0] - 2017-05-04
+
+- Redone to new hidev
+    - [21c57cc] 2017-05-04 csfixed [@hiqsol]
+    - [a49186e] 2017-05-04 redoing to new hidev [@hiqsol]
+    - [17f35be] 2017-02-06 added SilverFire to authors [@hiqsol]
 
 ## [0.4.2] - 2017-01-11
 
@@ -44,6 +50,8 @@ advancedhosters/hidev-advancedhosters
 
 ## [Development started] - 2015-08-17
 
+[@SilverFire]: https://github.com/SilverFire
+[d.naumenko.a@gmail.com]: https://github.com/SilverFire
 [@hiqsol]: https://github.com/hiqsol
 [sol@hiqdev.com]: https://github.com/hiqsol
 [41e13f8]: https://github.com/advancedhosters/hidev-advancedhosters/commit/41e13f8
@@ -69,3 +77,7 @@ advancedhosters/hidev-advancedhosters
 [0.0.1]: https://github.com/advancedhosters/hidev-advancedhosters/releases/tag/0.0.1
 [0.4.2]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.1...0.4.2
 [d0ac0a6]: https://github.com/advancedhosters/hidev-advancedhosters/commit/d0ac0a6
+[21c57cc]: https://github.com/advancedhosters/hidev-advancedhosters/commit/21c57cc
+[a49186e]: https://github.com/advancedhosters/hidev-advancedhosters/commit/a49186e
+[17f35be]: https://github.com/advancedhosters/hidev-advancedhosters/commit/17f35be
+[0.6.0]: https://github.com/advancedhosters/hidev-advancedhosters/compare/0.4.2...0.6.0
