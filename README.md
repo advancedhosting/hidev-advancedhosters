@@ -1,5 +1,4 @@
-AdvancedHosters HiDev config
-============================
+# AdvancedHosters HiDev config
 
 **AdvancedHosters vendor configuration for HiDev**
 
